@@ -2,9 +2,13 @@
 ### Download and change folder
 ```
 cd ~
-git clone https://github.com/lscosta90br/dotfiles-lc.git
+git clone https://github.com/lscosta90br/dotfiles.git
 
-cd dotfiles-lc
+ou 
+
+git clone ssh://git@github.com/lscosta90br/dotfiles.git
+
+cd dotfiles
 ```
 ### Run install
 ```
@@ -15,7 +19,7 @@ cd dotfiles-lc
 
 ### Change to dotfiles folder
 ```
-cd ~/dotfiles-lc
+cd ~/dotfiles
 ```
 
 ### Run uninstaller
